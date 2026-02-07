@@ -46,10 +46,4 @@ FUTURE ENHANCEMENTS
 - Cloud-based data storage
 - AI-based emergency prediction
 
-TEAM MEMBERS
-Jayanth M (1AY23IS401)
-Akash G P (1AY23IS400)
-Niranjan R K (1AY23IS406)
 
-Department of Information Science and Engineering
-Acharya Institute of Technology, Bengaluru
